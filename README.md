@@ -47,3 +47,6 @@ npm.cmd run build
 窗口跟随使用 Windows 窗口事件，24ms 合并移动事件，并保留低频兜底检查；最小化时保持同一个 Codex 窗口标识。几何测试覆盖内外侧回退与跨屏坐标。用缓存的 Electron 运行 `scripts/verify-companion.cjs` 可在独立临时配置中验证真实 BrowserWindow 的收起、拖动、脱离、恢复与层级逻辑，测试窗口保持隐藏。
 
 参考：[OpenAI 官方 Codex CLI 命令文档](https://learn.chatgpt.com/docs/cli/reference#codex-exec)。
+
+
+Pull Shark test line 1.
